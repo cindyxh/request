@@ -1,11 +1,11 @@
 {
-  "name": "request",
+  "name": "requestonly",
   "version": "1.0.0",
-  "description": "",
+  "description": "a simple request library",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
-  "author": "",
+  "author": "Cindy",
   "license": "ISC"
 }
